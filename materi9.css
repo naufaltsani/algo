@@ -1,0 +1,35 @@
+#canvas {
+    width: 1080px;
+    height: 800px;
+    background-color: cadetblue;
+}
+
+#header {
+    width: 1080px;
+    height: 150px;
+    background-color: blueviolet;
+}
+
+#menu {
+    width: 1080px;
+    height: 50px;
+    background-color: black;
+}
+
+#area1 {
+    width: 100px;
+    height: 600px;
+    background-color: green;
+    float: left;
+}
+
+#area2 {
+    width: 980px;
+    height: 200px;
+    background-image: url(https://dignitynews.eu/wp-content/uploads/2022/03/Digital-Ekonomisci-Dignitynews-980x200px-ENG-.jpg);
+    float: right;
+}
+
+.satu {
+    font-family: 'Courier New', Courier, monospace;
+}

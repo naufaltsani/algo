@@ -1,0 +1,19 @@
+.menucell {
+    background-color: blue;
+}
+
+.menucell:hover {
+    background-color: blueviolet;
+}
+
+.teks {
+    color: black;
+}
+
+.teks:hover {
+    color: white;
+}
+
+.a:link {
+    text-decoration: none;
+}
